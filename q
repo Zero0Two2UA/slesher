@@ -1,0 +1,8 @@
+#sdf
+a  = 100
+
+print("Hello,  world!")
+ahfhj =  2
+
+print (a)
+print ("sdad")
